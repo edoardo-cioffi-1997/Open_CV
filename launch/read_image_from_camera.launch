@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="open_cv" type="load_image_from_camera.py" name="load_image_from_camera"  output="screen">
+    </node>
+</launch>
